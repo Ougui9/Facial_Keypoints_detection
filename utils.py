@@ -1,4 +1,5 @@
 # import upsample_function
+#author: Xiao Zhang/Haoyuan Zhang
 import numpy as np
 import pdb
 def upsample2d(input, output_size):
